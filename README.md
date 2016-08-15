@@ -1,6 +1,2 @@
 # hello-word-
-
-Hi!
-
-Amir here!
-
+Just new repository
